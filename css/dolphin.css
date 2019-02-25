@@ -22,7 +22,6 @@ html {
 
 @media only screen and (max-width: 800px) and (min-width: 456px) {
   #dolphin {
-    position: relative;
     top: 50px;
   }
 }
