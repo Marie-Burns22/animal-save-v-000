@@ -20,4 +20,9 @@ html {
 
 /* Write your solution here */
 
-@media only screen and (max-width:800 px) and (min-width:)
+@media only screen and (max-width: 800px) and (min-width: 456px) {
+  #dolphin {
+    position: relative;
+    top:;
+  }
+}
