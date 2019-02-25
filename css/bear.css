@@ -10,4 +10,9 @@ html {
 
 /* Write your solution here */
 
-@media only screen (mix-width: 1022px) {
+@media only screen and (min-width:1022px) {
+  #bear {
+    position: relative;
+    left: 1000px;
+  }
+}
